@@ -1,0 +1,2 @@
+ejedev/raidshamer/RaidShamerPluginTest.java
+ ejedev.raidshamer.RaidShamerPluginTest

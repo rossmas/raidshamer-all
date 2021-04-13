@@ -1,0 +1,6 @@
+ejedev/raidshamer/RaidShamerConfig.java
+ ejedev.raidshamer.RaidShamerConfig
+ejedev/raidshamer/RaidShamerPlugin.java
+ ejedev.raidshamer.RaidShamerPlugin
+ejedev/raidshamer/DiscordWebhook.java
+ ejedev.raidshamer.DiscordWebhook
